@@ -1149,4 +1149,4 @@ if(!message.member.hasPermission('MANAGE_MESSAGES')) return message.reply('لي�
 
 
 
-client.login('NDg5Nzc0MzEyMDQ0MTAxNjQz.DoB7CA.wtzZb2fQWZJhnGKaoKrbBngSw3g');
+client.login('');
